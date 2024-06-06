@@ -20,7 +20,7 @@
  NOTE:  Do not add a main method to your solution code!
  */
 public class PositiveNegativeZero {
-    // write code here
+
     public static void checkNumber(int number){
         if (number > 0){
             System.out.print("positive");
