@@ -1,4 +1,4 @@
-/**************************************************** CODE EXERCISE 1: SPEED CONVERTER *****************************************************************
+/**************************************************** CODE EXERCISE 3: MegaBytes Converter *****************************************************************
  MegaBytes Converter
  Write a method called printMegaBytesAndKiloBytes that has 1 parameter of type int with the name kiloBytes.
 

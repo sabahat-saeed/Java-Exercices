@@ -1,5 +1,5 @@
 
-/**************************************************** CODE EXERCISE 1: SPEED CONVERTER *****************************************************************
+/**************************************************** CODE EXERCISE 2: SPEED CONVERTER *****************************************************************
 
  Description:
  First Method: Write a method called toMilesPerHour that has one parameter of type double with the name kilometersPerHour.
