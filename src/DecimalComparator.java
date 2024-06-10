@@ -1,4 +1,4 @@
-/**************************************************** CODE EXERCISE 6: LeapYear *****************************************************************
+/**************************************************** CODE EXERCISE 6: DecimalComparator *****************************************************************
  DecimalComparator
  Write a method areEqualByThreeDecimalPlaces with two parameters of type double.
 
