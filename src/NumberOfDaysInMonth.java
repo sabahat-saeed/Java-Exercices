@@ -67,6 +67,10 @@
         System.out.println(getDaysInMonth(1, -2020));
     }
     public static int getDaysInMonth( int month, int year){
+        if (year < 1 || year > 9_999) {
+            return -1;
+        }
+
         return switch(month){
             case 1,3,5,7,8,10,12 -> 31;
             case 2 -> isLeapYear(year) ? 29 : 28;
