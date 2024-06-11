@@ -75,7 +75,7 @@
         };
     }
     public static boolean isLeapYear(int year){
-        if(year < 0 || year > 9999){
+        if(year < 1 || year > 9999){
             return false;
         }
         if(year % 4 == 0){
